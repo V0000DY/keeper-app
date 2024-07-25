@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import ReactDOM from "react-dom";
 import Header from "./Header";
 import CreateArea from "./CreateArea";
 import Note from "./Note";
